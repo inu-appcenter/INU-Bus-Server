@@ -1,0 +1,22 @@
+{
+  "name": "bus",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.15.3",
+    "mysql": "^2.15.0",
+    "request": "^2.83.0",
+    "sync-request": "^4.1.0",
+    "then-request": "^4.1.0",
+    "underscore": "^1.8.3",
+    "xml2js": "^0.4.19",
+    "xml2json": "^0.11.0"
+  }
+}
