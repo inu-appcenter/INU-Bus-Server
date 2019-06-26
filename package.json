@@ -9,14 +9,12 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "body-parser": "^1.18.2",
-    "express": "^4.15.3",
-    "mysql": "^2.15.0",
-    "request": "^2.83.0",
-    "sync-request": "^4.1.0",
-    "then-request": "^4.1.0",
-    "underscore": "^1.8.3",
-    "xml2js": "^0.4.19",
-    "xml2json": "^0.11.0"
+    "body-parser": "^1.18.3",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "jade": "^1.11.0",
+    "mysql": "^2.16.0",
+    "sync-request": "^6.0.0",
+    "xml-js": "^1.6.8"
   }
 }
